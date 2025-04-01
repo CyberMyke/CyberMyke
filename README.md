@@ -4,7 +4,6 @@ HTML
 CSS
 JavaScript
 React
-TailwindCSS
 Node.js
 MongoDB
 
