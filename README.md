@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Software Developer with IBM<br>👯 I’m looking to improve my knowledge in Cyber Security<br>🤝 I’m looking for help with finding new projects to work on<br>🌱 I’m currently learning environment stability<br>💬 Drop me a message <br>⚡ Fun fact, i can read and write upside down
+🔭 I’m currently working on Full Stack Software Developer with IBM<br>👯 I’m looking to improve my knowledge in Cyber Security<br>🤝 I’m looking for help with finding new projects to work on<br>🌱 I’m currently learning environment stability<br>💬 Drop me a message <br>⚡ Fun fact, i can read and write upside down<br>🛠️ I use these technologies:
+HTML
+CSS
+JavaScript
+React
+TailwindCSS
+Node.js
+MongoDB
 
 
 ## 🌐 Socials:
